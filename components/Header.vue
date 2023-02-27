@@ -264,7 +264,7 @@ input {
 }
 
 .btn:hover {
-  background: rgb(32, 29, 219);
+  background: rgb(30, 27, 214);
 }
 .table-section {
   width: 100%;
@@ -278,7 +278,7 @@ table {
   border-radius: 5px;
 }
 .header {
-  background: #1b8fb4;
+  background: #2d9cc2;
   height: 3rem;
   font-size: 20px;
 }
